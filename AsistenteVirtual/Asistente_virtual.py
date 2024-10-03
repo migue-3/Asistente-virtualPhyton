@@ -242,4 +242,3 @@ pedir_cosas()
 
 #hablar('hola soy sabrina la españoleta')
 #trasformar_audio_en_texto()
-
